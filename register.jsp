@@ -38,7 +38,7 @@
      <br>
      <h3>
 	 <%
-	out.println("Welcome "+s1+" ... You are registered.");
+	out.println("Welcome "+s1+" ... You are registered!");
 	 %>
 	 </h3>
      <br>
