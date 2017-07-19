@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Register Me!</title>
+    <title>Register</title>
   </head>
   <body bgcolor="cyan">
     
